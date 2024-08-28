@@ -1,0 +1,15 @@
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\bin\Debug\net8.0\CrudRepository.Infrastructure.deps.json
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\bin\Debug\net8.0\CrudRepository.Infrastructure.dll
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\bin\Debug\net8.0\CrudRepository.Infrastructure.pdb
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\bin\Debug\net8.0\CrudRepository.Core.dll
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\bin\Debug\net8.0\CrudRepository.Core.pdb
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\CrudRepository.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\CrudRepository.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\CrudRepository.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\CrudRepository.Infrastructure.AssemblyInfo.cs
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\CrudRepository.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\CrudRepo.21758E97.Up2Date
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\CrudRepository.Infrastructure.dll
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\refint\CrudRepository.Infrastructure.dll
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\CrudRepository.Infrastructure.pdb
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Infrastructure\obj\Debug\net8.0\ref\CrudRepository.Infrastructure.dll

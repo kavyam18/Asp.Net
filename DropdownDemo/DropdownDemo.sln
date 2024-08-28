@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropdownDemo", "DropdownDemo\DropdownDemo.csproj", "{BAEBDC93-37E5-4C84-B5FB-B9DFBAA95821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEBDC93-37E5-4C84-B5FB-B9DFBAA95821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEBDC93-37E5-4C84-B5FB-B9DFBAA95821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEBDC93-37E5-4C84-B5FB-B9DFBAA95821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEBDC93-37E5-4C84-B5FB-B9DFBAA95821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1D5AA1-5F5B-4B0A-96EB-6269EBDCA935}
+	EndGlobalSection
+EndGlobal

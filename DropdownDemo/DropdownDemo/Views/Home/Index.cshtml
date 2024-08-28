@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<label class="form-label">Enum Roles</label>
+
+@* //Using Enum Class DropDown *@
+@Html.DropDownList("Role",
+Html.GetEnumSelectList<ERoles>(),
+"Select Roles",
+new {@class="form-control"})
+
+@* //without using Enum class *@
+<label class="form-label">Roles</label>
+@Html.DropDownList("Role",
+ViewBag.Roles,          //Roles is select List.
+"Select Roles",
+new {@class= "form-control"})

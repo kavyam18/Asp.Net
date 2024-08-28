@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RelationshipDatabase.API.props" />
+</Project>

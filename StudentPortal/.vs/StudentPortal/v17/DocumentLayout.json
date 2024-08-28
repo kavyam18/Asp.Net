@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\migrations\\20240729075122_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\migrations\\20240729075122_intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\kavya.m\\desktop\\c#\\studentportal\\studentportal.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8F96511-A028-417C-B8BE-8D24237F8148}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T06:45:49.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:38:53.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:39:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:39:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T07:15:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T07:15:19.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:15:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:15:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240729075122_Intial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Migrations\\20240729075122_Intial Migration.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Migrations\\20240729075122_Intial Migration.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Migrations\\20240729075122_Intial Migration.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Migrations\\20240729075122_Intial Migration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:14:59.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:50:14.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:45:38.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:31:18.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T06:32:58.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:32:34.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:59:40.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T06:31:46.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Student\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:50:23.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T06:31:51.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\StudentPortal\\StudentPortal.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:50:04.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

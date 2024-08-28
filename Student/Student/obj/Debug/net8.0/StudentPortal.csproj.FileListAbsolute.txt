@@ -1,0 +1,8 @@
+C:\Users\kavya.m\Desktop\C#\Student\Student\obj\Debug\net8.0\StudentPortal.csproj.AssemblyReference.cache
+C:\Users\kavya.m\Desktop\C#\Student\Student\obj\Debug\net8.0\StudentPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavya.m\Desktop\C#\Student\Student\obj\Debug\net8.0\StudentPortal.AssemblyInfoInputs.cache
+C:\Users\kavya.m\Desktop\C#\Student\Student\obj\Debug\net8.0\StudentPortal.AssemblyInfo.cs
+C:\Users\kavya.m\Desktop\C#\Student\Student\obj\Debug\net8.0\StudentPortal.csproj.CoreCompileInputs.cache
+C:\Users\kavya.m\Desktop\C#\Student\Student\obj\Debug\net8.0\StudentPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kavya.m\Desktop\C#\Student\Student\obj\Debug\net8.0\StudentPortal.RazorAssemblyInfo.cache
+C:\Users\kavya.m\Desktop\C#\Student\Student\obj\Debug\net8.0\StudentPortal.RazorAssemblyInfo.cs

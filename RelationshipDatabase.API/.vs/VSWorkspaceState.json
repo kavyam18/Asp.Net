@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RelationshipDatabase.API",
+    "\\RelationshipDatabase.API\\DAL",
+    "\\RelationshipDatabase.API\\Models"
+  ],
+  "SelectedNode": "\\RelationshipDatabase.API\\Models\\Publisher.cs",
+  "PreviewInSolutionExplorer": false
+}

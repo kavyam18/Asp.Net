@@ -1,0 +1,83 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<LMS.Application.Models.Dto.PrimaryInfoDto>
+@{
+    ViewData["Title"] = "Employee Primary Information";
+}
+<h3>@ViewData["Title"]</h3>
+<hr/>
+<form>
+    <table class="table table-responsive table-bordered table-hover">
+        <thead>
+            <tr class="table-active">
+                <th>
+                    @Html.DisplayNameFor(model => model.Employee_Id);
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Employee_Name);
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DateOfJoining);
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DateOfBirth);
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.BloodGroup)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Designation)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Gender)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nationality)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EmployeeStatus)
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model != null && Model.Any())
+            {
+                @foreach(var PrimaryInfo in Model)
+                {
+                    <tr>
+                        <td>@PrimaryInfo.Employee_Id</td>
+                        <td>@PrimaryInfo.Employee_Name</td>
+                        <td>@PrimaryInfo.DateOfJoining</td>
+                        <td>@PrimaryInfo.DateOfBirth</td>
+                        <td>@PrimaryInfo.Email</td>
+                        <td>@PrimaryInfo.BloodGroup</td>
+                        <td>@PrimaryInfo.Designation</td>
+                        <td>@PrimaryInfo.Gender</td>
+                        <td>@PrimaryInfo.Nationality</td>
+                        <td>@PrimaryInfo.EmployeeStatus</td>
+                        <td>
+                            <div class="btn-group btn-group-sm">
+                                <a asp-controller="PrimaryInfo" asp-action="Delete" asp-route-id="@PrimaryInfo.Employee_Id" class="btn btn-danger">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5">
+                        <div>
+                            No Employee PrimaryInfo for this moment!
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>

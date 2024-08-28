@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<CrudRepository.Core.Product>
+@{
+    ViewData["Title"] = "Product List";
+}
+<h3>@ViewData["Title"]</h3>
+<hr/>
+<form>
+    <button asp-action="CreateOrEdit" asp-asp-controller="Product" class="btn btn-primary mb-3"> Create Product</button>
+<table class="table table-responsive table-bordered table-hover">
+    <thead>
+        <tr class="table-active">
+            <th>
+                @Html.DisplayNameFor(model => model.Id);
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName);
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price);
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Qty);
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model != null && Model.Any())
+        {
+            @foreach(var Product in Model)
+            {
+                <tr>
+                    <td>@Product.Id</td>
+                    <td>@Product.ProductName</td>
+                    <td>@Product.Price</td>
+                    <td>@Product.Qty</td>
+                    <td>
+                        <div class="btn-group btn-group-sm">
+                                <a asp-controller="Product" asp-action="CreateOrEdit" asp-route-id="@Product.Id" class="btn btn-success">Edit</a>
+                                <a asp-controller="Product" asp-action="Delete" asp-route-id="@Product.Id" class="btn btn-danger">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5">
+                    <div>
+                        No Products available for this moment!
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</form>

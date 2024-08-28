@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66BFFC82-65CF-4B1C-9A8C-DE1F430AF576}|CrudRepository.UI\\CrudRepository.UI.csproj|c:\\users\\kavya.m\\desktop\\c#\\crudrepository.ui\\crudrepository.ui\\views\\product\\createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66BFFC82-65CF-4B1C-9A8C-DE1F430AF576}|CrudRepository.UI\\CrudRepository.UI.csproj|solutionrelative:crudrepository.ui\\views\\product\\createoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BFFC82-65CF-4B1C-9A8C-DE1F430AF576}|CrudRepository.UI\\CrudRepository.UI.csproj|c:\\users\\kavya.m\\desktop\\c#\\crudrepository.ui\\crudrepository.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BFFC82-65CF-4B1C-9A8C-DE1F430AF576}|CrudRepository.UI\\CrudRepository.UI.csproj|solutionrelative:crudrepository.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B363EFA6-2B3F-487D-B1DA-B6EE4B7DF93B}|CrudRepository.Infrastructure\\CrudRepository.Infrastructure.csproj|c:\\users\\kavya.m\\desktop\\c#\\crudrepository.ui\\crudrepository.infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B363EFA6-2B3F-487D-B1DA-B6EE4B7DF93B}|CrudRepository.Infrastructure\\CrudRepository.Infrastructure.csproj|solutionrelative:crudrepository.infrastructure\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B363EFA6-2B3F-487D-B1DA-B6EE4B7DF93B}|CrudRepository.Infrastructure\\CrudRepository.Infrastructure.csproj|c:\\users\\kavya.m\\desktop\\c#\\crudrepository.ui\\crudrepository.infrastructure\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B363EFA6-2B3F-487D-B1DA-B6EE4B7DF93B}|CrudRepository.Infrastructure\\CrudRepository.Infrastructure.csproj|solutionrelative:crudrepository.infrastructure\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\CrudRepository.UI\\Views\\Product\\CreateOrEdit.cshtml",
+              "RelativeDocumentMoniker": "CrudRepository.UI\\Views\\Product\\CreateOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\CrudRepository.UI\\Views\\Product\\CreateOrEdit.cshtml",
+              "RelativeToolTip": "CrudRepository.UI\\Views\\Product\\CreateOrEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T05:27:09.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\CrudRepository.UI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CrudRepository.UI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\CrudRepository.UI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CrudRepository.UI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:46:30.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\CrudRepository.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CrudRepository.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\CrudRepository.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CrudRepository.Infrastructure\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:45:58.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\CrudRepository.Infrastructure\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CrudRepository.Infrastructure\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\C#\\CrudRepository.UI\\CrudRepository.Infrastructure\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "CrudRepository.Infrastructure\\Implementations\\ProductRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:45:49.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

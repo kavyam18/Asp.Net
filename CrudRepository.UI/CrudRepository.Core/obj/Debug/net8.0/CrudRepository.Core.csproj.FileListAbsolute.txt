@@ -1,0 +1,14 @@
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\bin\Debug\net8.0\CrudRepository.Core.deps.json
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\bin\Debug\net8.0\CrudRepository.Core.runtimeconfig.json
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\bin\Debug\net8.0\CrudRepository.Core.dll
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\bin\Debug\net8.0\CrudRepository.Core.pdb
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\CrudRepository.Core.csproj.AssemblyReference.cache
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\CrudRepository.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\CrudRepository.Core.AssemblyInfoInputs.cache
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\CrudRepository.Core.AssemblyInfo.cs
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\CrudRepository.Core.csproj.CoreCompileInputs.cache
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\CrudRepository.Core.dll
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\refint\CrudRepository.Core.dll
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\CrudRepository.Core.pdb
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\CrudRepository.Core.genruntimeconfig.cache
+C:\Users\kavya.m\Desktop\C#\CrudRepository.UI\CrudRepository.Core\obj\Debug\net8.0\ref\CrudRepository.Core.dll
