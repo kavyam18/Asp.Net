@@ -1,0 +1,14 @@
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.exe
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.deps.json
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.runtimeconfig.json
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.dll
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\net8.0\SolidPrinciples.pdb
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.AssemblyInfo.cs
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.dll
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\refint\SolidPrinciples.dll
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.pdb
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\SolidPrinciples.genruntimeconfig.cache
+C:\Users\kavya.m\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\net8.0\ref\SolidPrinciples.dll

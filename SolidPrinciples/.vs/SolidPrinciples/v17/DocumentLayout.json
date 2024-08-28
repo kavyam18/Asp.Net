@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145253F9-CC26-4BD8-BCF3-981B5535FC2B}|SolidPrinciples\\SolidPrinciples.csproj|c:\\users\\kavya.m\\source\\repos\\solidprinciples\\solidprinciples\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145253F9-CC26-4BD8-BCF3-981B5535FC2B}|SolidPrinciples\\SolidPrinciples.csproj|solutionrelative:solidprinciples\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145253F9-CC26-4BD8-BCF3-981B5535FC2B}|SolidPrinciples\\SolidPrinciples.csproj|c:\\users\\kavya.m\\source\\repos\\solidprinciples\\solidprinciples\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145253F9-CC26-4BD8-BCF3-981B5535FC2B}|SolidPrinciples\\SolidPrinciples.csproj|solutionrelative:solidprinciples\\iswitchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145253F9-CC26-4BD8-BCF3-981B5535FC2B}|SolidPrinciples\\SolidPrinciples.csproj|c:\\users\\kavya.m\\source\\repos\\solidprinciples\\solidprinciples\\lightbulb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145253F9-CC26-4BD8-BCF3-981B5535FC2B}|SolidPrinciples\\SolidPrinciples.csproj|solutionrelative:solidprinciples\\lightbulb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145253F9-CC26-4BD8-BCF3-981B5535FC2B}|SolidPrinciples\\SolidPrinciples.csproj|c:\\users\\kavya.m\\source\\repos\\solidprinciples\\solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145253F9-CC26-4BD8-BCF3-981B5535FC2B}|SolidPrinciples\\SolidPrinciples.csproj|solutionrelative:solidprinciples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\SolidPrinciples\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples\\Program.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\SolidPrinciples\\Program.cs",
+              "RelativeToolTip": "SolidPrinciples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:41:49.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISwitchable.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\SolidPrinciples\\ISwitchable.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples\\ISwitchable.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\SolidPrinciples\\ISwitchable.cs",
+              "RelativeToolTip": "SolidPrinciples\\ISwitchable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:49:52.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\SolidPrinciples\\Switch.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples\\Switch.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\SolidPrinciples\\Switch.cs",
+              "RelativeToolTip": "SolidPrinciples\\Switch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:49:49.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightBulb.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\SolidPrinciples\\LightBulb.cs",
+              "RelativeDocumentMoniker": "SolidPrinciples\\LightBulb.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\source\\repos\\SolidPrinciples\\SolidPrinciples\\LightBulb.cs",
+              "RelativeToolTip": "SolidPrinciples\\LightBulb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:49:45.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
