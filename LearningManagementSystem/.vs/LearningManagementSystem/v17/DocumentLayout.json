@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|c:\\users\\kavya.m\\desktop\\.net\\asp.net\\learningmanagementsystem\\learningmanagementsystem\\services\\implementation\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|solutionrelative:learningmanagementsystem\\services\\implementation\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|c:\\users\\kavya.m\\desktop\\.net\\asp.net\\learningmanagementsystem\\learningmanagementsystem\\services\\implementation\\technicalskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|solutionrelative:learningmanagementsystem\\services\\implementation\\technicalskillrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|c:\\users\\kavya.m\\desktop\\.net\\asp.net\\learningmanagementsystem\\learningmanagementsystem\\services\\implementation\\secondaryinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|solutionrelative:learningmanagementsystem\\services\\implementation\\secondaryinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|c:\\users\\kavya.m\\desktop\\.net\\asp.net\\learningmanagementsystem\\learningmanagementsystem\\services\\implementation\\primaryinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|solutionrelative:learningmanagementsystem\\services\\implementation\\primaryinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|c:\\users\\kavya.m\\desktop\\.net\\asp.net\\learningmanagementsystem\\learningmanagementsystem\\services\\implementation\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D864F0-CE12-4A57-B65A-A1F7FF6B382F}|LearningManagementSystem\\LearningManagementSystem.csproj|solutionrelative:learningmanagementsystem\\services\\implementation\\experiencerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem\\Services\\Implementation\\AddressRepository.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\AddressRepository.cs",
+              "RelativeToolTip": "LearningManagementSystem\\Services\\Implementation\\AddressRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:27:41.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechnicalSkillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\TechnicalSkillRepository.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem\\Services\\Implementation\\TechnicalSkillRepository.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\TechnicalSkillRepository.cs",
+              "RelativeToolTip": "LearningManagementSystem\\Services\\Implementation\\TechnicalSkillRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:26:33.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecondaryInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\SecondaryInfoRepository.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem\\Services\\Implementation\\SecondaryInfoRepository.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\SecondaryInfoRepository.cs",
+              "RelativeToolTip": "LearningManagementSystem\\Services\\Implementation\\SecondaryInfoRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:26:34.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrimaryInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\PrimaryInfoRepository.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem\\Services\\Implementation\\PrimaryInfoRepository.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\PrimaryInfoRepository.cs",
+              "RelativeToolTip": "LearningManagementSystem\\Services\\Implementation\\PrimaryInfoRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:26:23.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExperienceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\ExperienceRepository.cs",
+              "RelativeDocumentMoniker": "LearningManagementSystem\\Services\\Implementation\\ExperienceRepository.cs",
+              "ToolTip": "C:\\Users\\kavya.m\\Desktop\\.Net\\Asp.Net\\LearningManagementSystem\\LearningManagementSystem\\Services\\Implementation\\ExperienceRepository.cs",
+              "RelativeToolTip": "LearningManagementSystem\\Services\\Implementation\\ExperienceRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:25:43.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
